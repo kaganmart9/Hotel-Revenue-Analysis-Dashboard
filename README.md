@@ -1,6 +1,6 @@
 # Hotel Revenue Analysis Dashboard
 
-![Hotel Revenue Dashboard](visual/dashboard_pic.png)
+![Hotel Revenue Dashboard](visual/dashboard_pic.jpg)
 
 ## Project Overview
 
